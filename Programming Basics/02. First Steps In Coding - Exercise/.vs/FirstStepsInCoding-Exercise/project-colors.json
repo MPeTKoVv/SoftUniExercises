@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63358f5d-e7cb-4bcc-bc8c-9e51a2f7967f": {
+      "ProjectGuid": "63358f5d-e7cb-4bcc-bc8c-9e51a2f7967f",
+      "DisplayName": "P01.ConsoleConverter",
+      "ColorIndex": 0
+    },
+    "054e31bb-00d5-4032-86ad-52b152210826": {
+      "ProjectGuid": "054e31bb-00d5-4032-86ad-52b152210826",
+      "DisplayName": "P02.RadiansToDegrees",
+      "ColorIndex": 1
+    },
+    "9b8f2d3c-d432-4c53-86ba-c146a93df3a9": {
+      "ProjectGuid": "9b8f2d3c-d432-4c53-86ba-c146a93df3a9",
+      "DisplayName": "P03. DepositCalculator",
+      "ColorIndex": 2
+    },
+    "79ab1787-6820-464c-a47d-c024fff83be4": {
+      "ProjectGuid": "79ab1787-6820-464c-a47d-c024fff83be4",
+      "DisplayName": "P04.VacationBooksList",
+      "ColorIndex": 3
+    },
+    "3f2f3623-f053-4501-91db-ec59131fc8d9": {
+      "ProjectGuid": "3f2f3623-f053-4501-91db-ec59131fc8d9",
+      "DisplayName": "P05.SuppliesForSchool",
+      "ColorIndex": 4
+    },
+    "6a7f8cd3-812b-4908-82cc-f1332bdd2873": {
+      "ProjectGuid": "6a7f8cd3-812b-4908-82cc-f1332bdd2873",
+      "DisplayName": "P06.Repainting",
+      "ColorIndex": 5
+    },
+    "c43969df-e5b6-4378-b106-78a1e5eb18f4": {
+      "ProjectGuid": "c43969df-e5b6-4378-b106-78a1e5eb18f4",
+      "DisplayName": "P07.FoodDelivery",
+      "ColorIndex": 6
+    },
+    "08063c89-026d-4f54-9860-33cdec65d07d": {
+      "ProjectGuid": "08063c89-026d-4f54-9860-33cdec65d07d",
+      "DisplayName": "P08.BasketballEquipment",
+      "ColorIndex": 7
+    },
+    "f0e87a01-21ec-4e41-aa7a-bcf76165588f": {
+      "ProjectGuid": "f0e87a01-21ec-4e41-aa7a-bcf76165588f",
+      "DisplayName": "P09.FishTank",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
