@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\net5.0\T07. Area of Figures.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\net5.0\T07. Area of Figures.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\net5.0\T07. Area of Figures.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\net5.0\T07. Area of Figures.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\net5.0\T07. Area of Figures.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\net5.0\ref\T07. Area of Figures.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\net5.0\T07. Area of Figures.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\net5.0\T07. Area of Figures.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\net5.0\T07. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\net5.0\T07. Area of Figures.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\net5.0\T07. Area of Figures.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\net5.0\T07. Area of Figures.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\net5.0\T07. Area of Figures.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\net5.0\ref\T07. Area of Figures.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\net5.0\T07. Area of Figures.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\net5.0\T07. Area of Figures.genruntimeconfig.cache

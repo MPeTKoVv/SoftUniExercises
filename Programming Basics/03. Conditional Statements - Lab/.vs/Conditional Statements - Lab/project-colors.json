@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af5552bf-d210-48cf-a634-5bd5bae4f25e": {
+      "ProjectGuid": "af5552bf-d210-48cf-a634-5bd5bae4f25e",
+      "DisplayName": "T01. Excellent Result",
+      "ColorIndex": 0
+    },
+    "e60291db-e8e9-4ad1-a383-73dc05d21f2d": {
+      "ProjectGuid": "e60291db-e8e9-4ad1-a383-73dc05d21f2d",
+      "DisplayName": "T02. Greater Number",
+      "ColorIndex": 1
+    },
+    "49c239cd-c488-417e-8f27-1e5dd3cd93ad": {
+      "ProjectGuid": "49c239cd-c488-417e-8f27-1e5dd3cd93ad",
+      "DisplayName": "T03. Even or Odd",
+      "ColorIndex": 2
+    },
+    "06aeacee-6e7c-4e4d-bd88-b31f9810b7f8": {
+      "ProjectGuid": "06aeacee-6e7c-4e4d-bd88-b31f9810b7f8",
+      "DisplayName": "T04. Password Guess",
+      "ColorIndex": 3
+    },
+    "91b46196-3f77-44a2-90ad-61a8388b478d": {
+      "ProjectGuid": "91b46196-3f77-44a2-90ad-61a8388b478d",
+      "DisplayName": "T05. Number 100 to 200",
+      "ColorIndex": 4
+    },
+    "44a13305-44fb-4127-955c-e442b2d9c788": {
+      "ProjectGuid": "44a13305-44fb-4127-955c-e442b2d9c788",
+      "DisplayName": "T06. Speed Info",
+      "ColorIndex": 5
+    },
+    "c2b35bfc-177e-404f-947d-dfd361ff37b9": {
+      "ProjectGuid": "c2b35bfc-177e-404f-947d-dfd361ff37b9",
+      "DisplayName": "T07. Area of Figures",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
