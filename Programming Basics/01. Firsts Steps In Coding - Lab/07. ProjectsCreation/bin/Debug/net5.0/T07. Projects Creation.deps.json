@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "T07. Projects Creation/1.0.0": {
+        "runtime": {
+          "T07. Projects Creation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T07. Projects Creation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

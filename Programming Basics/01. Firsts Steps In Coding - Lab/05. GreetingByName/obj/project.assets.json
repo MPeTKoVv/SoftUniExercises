@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "T04. Inches to Centimeters/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/T04. Inches to Centimeters.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T04. Inches to Centimeters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T04. Inches to Centimeters/1.0.0": {
+      "type": "project",
+      "path": "../T04. Inches to Centimeters/T04. Inches to Centimeters.csproj",
+      "msbuildProject": "../T04. Inches to Centimeters/T04. Inches to Centimeters.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "T04. Inches to Centimeters >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Martin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Martin\\Учебни материали\\8 клас\\SoftUni\\C#\\Programming Basics\\FirstsStepsInCodingLecture\\Т05. Greeting by Name\\Т05. Greeting by Name.csproj",
+      "projectName": "Т05. Greeting by Name",
+      "projectPath": "D:\\Martin\\Учебни материали\\8 клас\\SoftUni\\C#\\Programming Basics\\FirstsStepsInCodingLecture\\Т05. Greeting by Name\\Т05. Greeting by Name.csproj",
+      "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
+      "outputPath": "D:\\Martin\\Учебни материали\\8 клас\\SoftUni\\C#\\Programming Basics\\FirstsStepsInCodingLecture\\Т05. Greeting by Name\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Martin\\Учебни материали\\8 клас\\SoftUni\\C#\\Programming Basics\\FirstsStepsInCodingLecture\\T04. Inches to Centimeters\\T04. Inches to Centimeters.csproj": {
+              "projectPath": "D:\\Martin\\Учебни материали\\8 клас\\SoftUni\\C#\\Programming Basics\\FirstsStepsInCodingLecture\\T04. Inches to Centimeters\\T04. Inches to Centimeters.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Т08. Pet Shop/1.0.0": {
+        "runtime": {
+          "Т08. Pet Shop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Т08. Pet Shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
