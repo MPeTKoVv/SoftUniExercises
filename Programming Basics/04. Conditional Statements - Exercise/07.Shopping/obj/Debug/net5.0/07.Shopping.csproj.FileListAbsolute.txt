@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\net5.0\07.Shopping.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\net5.0\07.Shopping.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\net5.0\07.Shopping.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\net5.0\07.Shopping.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\net5.0\07.Shopping.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\net5.0\ref\07.Shopping.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\bin\Debug\net5.0\07.Shopping.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\net5.0\07.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\net5.0\07.Shopping.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\net5.0\07.Shopping.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\net5.0\07.Shopping.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\net5.0\07.Shopping.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\net5.0\ref\07.Shopping.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\net5.0\07.Shopping.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\net5.0\07.Shopping.genruntimeconfig.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\07.Shopping\obj\Debug\net5.0\07.Shopping.csproj.AssemblyReference.cache
