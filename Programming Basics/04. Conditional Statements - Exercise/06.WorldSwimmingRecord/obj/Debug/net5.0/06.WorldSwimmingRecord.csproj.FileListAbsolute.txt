@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\ref\06.WorldSwimmingRecord.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\bin\Debug\net5.0\06.WorldSwimmingRecord.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\ref\06.WorldSwimmingRecord.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\06.WorldSwimmingRecord\obj\Debug\net5.0\06.WorldSwimmingRecord.genruntimeconfig.cache
