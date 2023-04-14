@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\net5.0\ref\04.ToyShop.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\bin\Debug\net5.0\04.ToyShop.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\net5.0\ref\04.ToyShop.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements - Exercise\04.ToyShop\obj\Debug\net5.0\04.ToyShop.genruntimeconfig.cache
