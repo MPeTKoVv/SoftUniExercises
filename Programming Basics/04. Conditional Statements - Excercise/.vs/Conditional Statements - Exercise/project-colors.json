@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0497c54-6899-4439-a165-6142d15272fc": {
+      "ProjectGuid": "d0497c54-6899-4439-a165-6142d15272fc",
+      "DisplayName": "01.SumSeconds",
+      "ColorIndex": 0
+    },
+    "5a517b40-a8ff-4373-8f01-30db5e7038ae": {
+      "ProjectGuid": "5a517b40-a8ff-4373-8f01-30db5e7038ae",
+      "DisplayName": "02.BonusScore",
+      "ColorIndex": 1
+    },
+    "9a851b28-5137-49a1-824d-a241bdaad474": {
+      "ProjectGuid": "9a851b28-5137-49a1-824d-a241bdaad474",
+      "DisplayName": "03.Time+15Minutes",
+      "ColorIndex": 2
+    },
+    "48382dd8-4899-4a28-a20e-e6dec01c8da2": {
+      "ProjectGuid": "48382dd8-4899-4a28-a20e-e6dec01c8da2",
+      "DisplayName": "04.ToyShop",
+      "ColorIndex": 3
+    },
+    "1de49f5a-a5a8-462e-aa41-1982ac533f2f": {
+      "ProjectGuid": "1de49f5a-a5a8-462e-aa41-1982ac533f2f",
+      "DisplayName": "05.GodzillaVSKong",
+      "ColorIndex": 4
+    },
+    "3378312b-ea07-4bda-a94e-5470f47adf43": {
+      "ProjectGuid": "3378312b-ea07-4bda-a94e-5470f47adf43",
+      "DisplayName": "06.WorldSwimmingRecord",
+      "ColorIndex": 5
+    },
+    "0df78987-8e5c-4d2a-ae32-a56157065c92": {
+      "ProjectGuid": "0df78987-8e5c-4d2a-ae32-a56157065c92",
+      "DisplayName": "07.Shopping",
+      "ColorIndex": 6
+    },
+    "4edaf30f-512b-4aaa-9df4-78c7ad19f86e": {
+      "ProjectGuid": "4edaf30f-512b-4aaa-9df4-78c7ad19f86e",
+      "DisplayName": "08.LunchBreak",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
