@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\ref\12. Trade Commissions.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\ref\12. Trade Commissions.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.genruntimeconfig.cache

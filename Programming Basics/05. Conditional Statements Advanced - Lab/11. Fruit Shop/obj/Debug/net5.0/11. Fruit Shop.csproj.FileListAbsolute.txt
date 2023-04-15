@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\ref\11. Fruit Shop.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net5.0\11. Fruit Shop.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\ref\11. Fruit Shop.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net5.0\11. Fruit Shop.genruntimeconfig.cache

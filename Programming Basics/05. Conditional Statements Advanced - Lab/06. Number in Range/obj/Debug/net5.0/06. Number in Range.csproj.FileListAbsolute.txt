@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net5.0\06. Number in Range.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net5.0\06. Number in Range.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net5.0\06. Number in Range.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net5.0\06. Number in Range.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net5.0\06. Number in Range.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net5.0\ref\06. Number in Range.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net5.0\06. Number in Range.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net5.0\06. Number in Range.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net5.0\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net5.0\06. Number in Range.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net5.0\06. Number in Range.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net5.0\06. Number in Range.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net5.0\06. Number in Range.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net5.0\ref\06. Number in Range.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net5.0\06. Number in Range.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net5.0\06. Number in Range.genruntimeconfig.cache

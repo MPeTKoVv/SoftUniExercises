@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\net5.0\07.Working Hours.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\net5.0\07.Working Hours.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\net5.0\07.Working Hours.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\net5.0\07.Working Hours.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\net5.0\07.Working Hours.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\net5.0\ref\07.Working Hours.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\net5.0\07.Working Hours.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\net5.0\07.Working Hours.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\net5.0\07.Working Hours.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\net5.0\07.Working Hours.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\net5.0\07.Working Hours.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\net5.0\07.Working Hours.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\net5.0\ref\07.Working Hours.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\net5.0\07.Working Hours.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\net5.0\07.Working Hours.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\ref\10. Invalid Number.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\ref\10. Invalid Number.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.genruntimeconfig.cache

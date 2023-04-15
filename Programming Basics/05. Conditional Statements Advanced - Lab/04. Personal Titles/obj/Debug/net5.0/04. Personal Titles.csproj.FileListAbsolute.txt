@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net5.0\ref\04. Personal Titles.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net5.0\ref\04. Personal Titles.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.genruntimeconfig.cache
