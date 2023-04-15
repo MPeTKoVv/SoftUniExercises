@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59e2dc80-ce35-43e9-943f-761308a7cbc0": {
+      "ProjectGuid": "59e2dc80-ce35-43e9-943f-761308a7cbc0",
+      "DisplayName": "01. Day of Week",
+      "ColorIndex": 0
+    },
+    "b2676efe-029f-4435-87d4-c8274003fbcd": {
+      "ProjectGuid": "b2676efe-029f-4435-87d4-c8274003fbcd",
+      "DisplayName": "02.Weekend or Working Day",
+      "ColorIndex": 1
+    },
+    "6cffa6be-592f-44f8-9134-c4ad2bdfd8be": {
+      "ProjectGuid": "6cffa6be-592f-44f8-9134-c4ad2bdfd8be",
+      "DisplayName": "03. Animal Type",
+      "ColorIndex": 2
+    },
+    "69c6d03a-0c78-4d7f-9063-5f4373601a35": {
+      "ProjectGuid": "69c6d03a-0c78-4d7f-9063-5f4373601a35",
+      "DisplayName": "04. Personal Titles",
+      "ColorIndex": 3
+    },
+    "129bbfe1-4393-4696-9aef-f2440b911bde": {
+      "ProjectGuid": "129bbfe1-4393-4696-9aef-f2440b911bde",
+      "DisplayName": "05. Small Shop",
+      "ColorIndex": 4
+    },
+    "d9ec1b9a-5626-433f-806e-92c83617c994": {
+      "ProjectGuid": "d9ec1b9a-5626-433f-806e-92c83617c994",
+      "DisplayName": "06. Number in Range",
+      "ColorIndex": 5
+    },
+    "bf6735b5-04cb-4401-9321-4aac470f8663": {
+      "ProjectGuid": "bf6735b5-04cb-4401-9321-4aac470f8663",
+      "DisplayName": "07.Working Hours",
+      "ColorIndex": 6
+    },
+    "dc90bef9-e107-4e7a-b7fc-faf862da59da": {
+      "ProjectGuid": "dc90bef9-e107-4e7a-b7fc-faf862da59da",
+      "DisplayName": "08.Cinema Ticket",
+      "ColorIndex": 7
+    },
+    "63b74349-e2d3-4863-a799-e39ff5943d07": {
+      "ProjectGuid": "63b74349-e2d3-4863-a799-e39ff5943d07",
+      "DisplayName": "09. Fruit or Vegetable",
+      "ColorIndex": 8
+    },
+    "8b1ed1a1-8943-4fa7-997b-d855dff5b8bc": {
+      "ProjectGuid": "8b1ed1a1-8943-4fa7-997b-d855dff5b8bc",
+      "DisplayName": "10. Invalid Number",
+      "ColorIndex": 9
+    },
+    "403d9f4e-8882-472c-aa03-87688fb1df84": {
+      "ProjectGuid": "403d9f4e-8882-472c-aa03-87688fb1df84",
+      "DisplayName": "11. Fruit Shop",
+      "ColorIndex": 10
+    },
+    "75365b9a-0ffc-4d13-9d1b-55975bd5ae4f": {
+      "ProjectGuid": "75365b9a-0ffc-4d13-9d1b-55975bd5ae4f",
+      "DisplayName": "12. Trade Commissions",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}
