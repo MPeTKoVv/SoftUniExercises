@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\ref\01. Day of Week.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\ref\01. Day of Week.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.genruntimeconfig.cache

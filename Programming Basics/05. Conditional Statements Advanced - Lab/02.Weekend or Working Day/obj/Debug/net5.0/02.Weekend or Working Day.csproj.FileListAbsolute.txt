@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\net5.0\ref\02.Weekend or Working Day.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\net5.0\ref\02.Weekend or Working Day.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.genruntimeconfig.cache
