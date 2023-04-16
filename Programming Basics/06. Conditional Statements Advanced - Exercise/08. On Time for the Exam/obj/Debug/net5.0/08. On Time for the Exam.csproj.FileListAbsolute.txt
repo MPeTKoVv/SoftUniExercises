@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net5.0\ref\08. On Time for the Exam.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net5.0\ref\08. On Time for the Exam.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.genruntimeconfig.cache

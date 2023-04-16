@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net5.0\ref\07. Hotel Room.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net5.0\ref\07. Hotel Room.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.genruntimeconfig.cache
