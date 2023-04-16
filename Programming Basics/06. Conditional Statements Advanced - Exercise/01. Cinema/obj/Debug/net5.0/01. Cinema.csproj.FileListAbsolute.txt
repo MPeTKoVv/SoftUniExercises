@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\ref\01. Cinema.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\ref\01. Cinema.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.genruntimeconfig.cache

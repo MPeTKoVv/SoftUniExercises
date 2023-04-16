@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\ref\02. Summer Outfit.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\ref\02. Summer Outfit.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.genruntimeconfig.cache

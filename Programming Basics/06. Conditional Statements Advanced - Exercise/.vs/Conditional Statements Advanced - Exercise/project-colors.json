@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c9f06e4-607b-473b-9ea3-c692cab72129": {
+      "ProjectGuid": "4c9f06e4-607b-473b-9ea3-c692cab72129",
+      "DisplayName": "01. Cinema",
+      "ColorIndex": 0
+    },
+    "c3fda10d-f5a1-455e-99bc-9090c306efa0": {
+      "ProjectGuid": "c3fda10d-f5a1-455e-99bc-9090c306efa0",
+      "DisplayName": "02. Summer Outfit",
+      "ColorIndex": 1
+    },
+    "72e1a840-a289-45a6-b5da-1b241b824a81": {
+      "ProjectGuid": "72e1a840-a289-45a6-b5da-1b241b824a81",
+      "DisplayName": "03. New House",
+      "ColorIndex": 2
+    },
+    "8a9b12f9-9de2-4089-9e3b-19a5e553a445": {
+      "ProjectGuid": "8a9b12f9-9de2-4089-9e3b-19a5e553a445",
+      "DisplayName": "04. Fishing Boat",
+      "ColorIndex": 3
+    },
+    "d1767057-4e1d-4076-ab1c-9f3e3667cb03": {
+      "ProjectGuid": "d1767057-4e1d-4076-ab1c-9f3e3667cb03",
+      "DisplayName": "05. Journey",
+      "ColorIndex": 4
+    },
+    "2fcf827a-2cb1-4eeb-8597-a37133de61af": {
+      "ProjectGuid": "2fcf827a-2cb1-4eeb-8597-a37133de61af",
+      "DisplayName": "06. Operations Between Numbers",
+      "ColorIndex": 5
+    },
+    "8bd39592-27ba-4d91-8a4b-578a36e12540": {
+      "ProjectGuid": "8bd39592-27ba-4d91-8a4b-578a36e12540",
+      "DisplayName": "07. Hotel Room",
+      "ColorIndex": 6
+    },
+    "694f49f4-0259-4ca1-971d-bac0ed0f6607": {
+      "ProjectGuid": "694f49f4-0259-4ca1-971d-bac0ed0f6607",
+      "DisplayName": "08. On Time for the Exam",
+      "ColorIndex": 7
+    },
+    "90e3d85b-ac04-4576-a241-d6914cf83e12": {
+      "ProjectGuid": "90e3d85b-ac04-4576-a241-d6914cf83e12",
+      "DisplayName": "09. Ski Trip",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
