@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\net5.0\ref\09. Ski Trip.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\net5.0\ref\09. Ski Trip.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.genruntimeconfig.cache
