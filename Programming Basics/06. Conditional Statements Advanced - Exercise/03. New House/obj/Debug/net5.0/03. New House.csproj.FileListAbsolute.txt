@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\ref\03. New House.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\ref\03. New House.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.genruntimeconfig.cache

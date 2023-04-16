@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\ref\04. Fishing Boat.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\ref\04. Fishing Boat.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.genruntimeconfig.cache
