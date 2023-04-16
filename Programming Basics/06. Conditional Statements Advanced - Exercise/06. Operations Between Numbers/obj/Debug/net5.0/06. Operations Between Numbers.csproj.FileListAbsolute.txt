@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\ref\06. Operations Between Numbers.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\ref\06. Operations Between Numbers.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.genruntimeconfig.cache
