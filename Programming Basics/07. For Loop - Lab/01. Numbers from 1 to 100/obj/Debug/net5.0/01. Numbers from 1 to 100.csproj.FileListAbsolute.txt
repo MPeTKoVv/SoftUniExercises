@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net5.0\ref\01. Numbers from 1 to 100.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net5.0\ref\01. Numbers from 1 to 100.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.genruntimeconfig.cache
