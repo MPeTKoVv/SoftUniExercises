@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\ref\10. Odd Even Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\ref\10. Odd Even Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.genruntimeconfig.cache
