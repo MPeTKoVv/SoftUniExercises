@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\bin\Debug\net5.0\ref\07. Sum Numbers.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\obj\Debug\net5.0\ref\07. Sum Numbers.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.genruntimeconfig.cache

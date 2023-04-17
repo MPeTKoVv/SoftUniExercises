@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\ref\06. Vowels Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\ref\06. Vowels Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.genruntimeconfig.cache
