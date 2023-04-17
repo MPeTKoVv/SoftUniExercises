@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\ref\09. Left and Right Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\ref\09. Left and Right Sum.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.genruntimeconfig.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.csproj.AssemblyReference.cache

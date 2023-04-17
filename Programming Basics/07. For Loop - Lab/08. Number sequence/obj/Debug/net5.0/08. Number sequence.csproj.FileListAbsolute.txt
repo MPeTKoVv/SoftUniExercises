@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\bin\Debug\net5.0\08. Number sequence.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\bin\Debug\net5.0\08. Number sequence.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\bin\Debug\net5.0\08. Number sequence.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\bin\Debug\net5.0\08. Number sequence.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\bin\Debug\net5.0\08. Number sequence.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\bin\Debug\net5.0\ref\08. Number sequence.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\bin\Debug\net5.0\08. Number sequence.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\obj\Debug\net5.0\08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\obj\Debug\net5.0\08. Number sequence.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\obj\Debug\net5.0\08. Number sequence.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\obj\Debug\net5.0\08. Number sequence.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\obj\Debug\net5.0\08. Number sequence.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\obj\Debug\net5.0\ref\08. Number sequence.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\obj\Debug\net5.0\08. Number sequence.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\08. Number sequence\obj\Debug\net5.0\08. Number sequence.genruntimeconfig.cache
