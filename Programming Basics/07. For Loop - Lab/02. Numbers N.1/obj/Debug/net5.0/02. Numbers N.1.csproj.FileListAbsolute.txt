@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\ref\02. Numbers N.1.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\ref\02. Numbers N.1.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.genruntimeconfig.cache

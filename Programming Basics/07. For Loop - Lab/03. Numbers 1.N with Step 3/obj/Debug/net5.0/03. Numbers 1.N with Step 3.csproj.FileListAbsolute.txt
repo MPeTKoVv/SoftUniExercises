@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\net5.0\03. Numbers 1.N with Step 3.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\net5.0\03. Numbers 1.N with Step 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\net5.0\03. Numbers 1.N with Step 3.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\net5.0\03. Numbers 1.N with Step 3.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\net5.0\03. Numbers 1.N with Step 3.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\net5.0\03. Numbers 1.N with Step 3.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\net5.0\03. Numbers 1.N with Step 3.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\net5.0\03. Numbers 1.N with Step 3.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\net5.0\03. Numbers 1.N with Step 3.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\net5.0\03. Numbers 1.N with Step 3.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\net5.0\ref\03. Numbers 1.N with Step 3.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\net5.0\03. Numbers 1.N with Step 3.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\net5.0\03. Numbers 1.N with Step 3.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\net5.0\ref\03. Numbers 1.N with Step 3.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\net5.0\03. Numbers 1.N with Step 3.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\net5.0\03. Numbers 1.N with Step 3.genruntimeconfig.cache
