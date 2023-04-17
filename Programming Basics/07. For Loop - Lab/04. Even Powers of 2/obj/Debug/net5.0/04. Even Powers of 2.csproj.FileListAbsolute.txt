@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\ref\04. Even Powers of 2.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\ref\04. Even Powers of 2.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.genruntimeconfig.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.csproj.AssemblyReference.cache
