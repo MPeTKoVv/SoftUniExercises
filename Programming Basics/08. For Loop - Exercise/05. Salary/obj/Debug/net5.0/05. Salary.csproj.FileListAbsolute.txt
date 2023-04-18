@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\bin\Debug\net5.0\05. Salary.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\bin\Debug\net5.0\05. Salary.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\bin\Debug\net5.0\05. Salary.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\bin\Debug\net5.0\05. Salary.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\bin\Debug\net5.0\05. Salary.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\bin\Debug\net5.0\ref\05. Salary.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\bin\Debug\net5.0\05. Salary.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\obj\Debug\net5.0\05. Salary.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\obj\Debug\net5.0\05. Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\obj\Debug\net5.0\05. Salary.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\obj\Debug\net5.0\05. Salary.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\obj\Debug\net5.0\05. Salary.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\obj\Debug\net5.0\05. Salary.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\obj\Debug\net5.0\ref\05. Salary.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\obj\Debug\net5.0\05. Salary.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\05. Salary\obj\Debug\net5.0\05. Salary.genruntimeconfig.cache

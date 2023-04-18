@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\ref\04. Clever Lily.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\ref\04. Clever Lily.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.genruntimeconfig.cache
