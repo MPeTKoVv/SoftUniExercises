@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\ref\06. Oscars.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\ref\06. Oscars.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\ref\07. Trekking Mania.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\ref\07. Trekking Mania.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.genruntimeconfig.cache
