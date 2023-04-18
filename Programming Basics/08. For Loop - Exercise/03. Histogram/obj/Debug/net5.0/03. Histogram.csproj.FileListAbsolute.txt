@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\ref\03. Histogram.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\ref\03. Histogram.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.genruntimeconfig.cache
