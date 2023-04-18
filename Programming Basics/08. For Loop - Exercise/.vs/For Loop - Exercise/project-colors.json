@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82a8e2d5-2bdf-485c-ac84-02a39c25985c": {
+      "ProjectGuid": "82a8e2d5-2bdf-485c-ac84-02a39c25985c",
+      "DisplayName": "01. Numbers Ending in 7",
+      "ColorIndex": 0
+    },
+    "f3a73a95-543e-4b14-9574-37974963ed1f": {
+      "ProjectGuid": "f3a73a95-543e-4b14-9574-37974963ed1f",
+      "DisplayName": "02. Half Sum Element",
+      "ColorIndex": 1
+    },
+    "6e1fa599-bbb2-476a-aedf-6a74be19f2e5": {
+      "ProjectGuid": "6e1fa599-bbb2-476a-aedf-6a74be19f2e5",
+      "DisplayName": "03. Histogram",
+      "ColorIndex": 2
+    },
+    "37e86dce-713f-498f-b020-644b0cbde839": {
+      "ProjectGuid": "37e86dce-713f-498f-b020-644b0cbde839",
+      "DisplayName": "04. Clever Lily",
+      "ColorIndex": 3
+    },
+    "eaae674a-d000-4bae-9b51-0df69df63b99": {
+      "ProjectGuid": "eaae674a-d000-4bae-9b51-0df69df63b99",
+      "DisplayName": "05. Salary",
+      "ColorIndex": 4
+    },
+    "005ecfdc-ab37-44cd-8912-1134652343aa": {
+      "ProjectGuid": "005ecfdc-ab37-44cd-8912-1134652343aa",
+      "DisplayName": "06. Oscars",
+      "ColorIndex": 5
+    },
+    "82e7fb4f-ae95-41c9-ac9e-8e22436461cd": {
+      "ProjectGuid": "82e7fb4f-ae95-41c9-ac9e-8e22436461cd",
+      "DisplayName": "07. Trekking Mania",
+      "ColorIndex": 6
+    },
+    "d9a1faf6-0ada-44de-b0d2-027e54fa4188": {
+      "ProjectGuid": "d9a1faf6-0ada-44de-b0d2-027e54fa4188",
+      "DisplayName": "08. Tennis Ranklist",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
