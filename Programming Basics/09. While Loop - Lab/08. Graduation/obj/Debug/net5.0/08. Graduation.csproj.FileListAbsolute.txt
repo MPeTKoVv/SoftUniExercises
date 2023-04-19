@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\bin\Debug\net5.0\08. Graduation.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\bin\Debug\net5.0\08. Graduation.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\bin\Debug\net5.0\08. Graduation.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\bin\Debug\net5.0\08. Graduation.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\bin\Debug\net5.0\08. Graduation.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\bin\Debug\net5.0\ref\08. Graduation.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\bin\Debug\net5.0\08. Graduation.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\obj\Debug\net5.0\08. Graduation.csproj.AssemblyReference.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\obj\Debug\net5.0\08. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\obj\Debug\net5.0\08. Graduation.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\obj\Debug\net5.0\08. Graduation.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\obj\Debug\net5.0\08. Graduation.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\obj\Debug\net5.0\08. Graduation.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\obj\Debug\net5.0\ref\08. Graduation.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\obj\Debug\net5.0\08. Graduation.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\08. Graduation\obj\Debug\net5.0\08. Graduation.genruntimeconfig.cache
