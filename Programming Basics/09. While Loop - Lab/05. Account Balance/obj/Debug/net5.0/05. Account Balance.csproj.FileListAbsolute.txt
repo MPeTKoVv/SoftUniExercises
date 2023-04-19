@@ -1,0 +1,16 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\ref\05. Account Balance.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\ref\05. Account Balance.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.genruntimeconfig.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.csproj.AssemblyReference.cache
