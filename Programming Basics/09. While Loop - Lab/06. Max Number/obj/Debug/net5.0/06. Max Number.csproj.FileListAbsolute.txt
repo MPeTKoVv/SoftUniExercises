@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\net5.0\ref\06. Max Number.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\net5.0\ref\06. Max Number.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.genruntimeconfig.cache
