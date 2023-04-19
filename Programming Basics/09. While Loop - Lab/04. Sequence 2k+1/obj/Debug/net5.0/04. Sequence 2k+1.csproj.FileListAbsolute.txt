@@ -1,0 +1,15 @@
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.exe
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.deps.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.runtimeconfig.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.runtimeconfig.dev.json
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\ref\04. Sequence 2k+1.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.AssemblyInfoInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.AssemblyInfo.cs
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\ref\04. Sequence 2k+1.dll
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.pdb
+D:\Martin\Учебни материали\8 клас\SoftUni\C#\Programming Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.genruntimeconfig.cache
